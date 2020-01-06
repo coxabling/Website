@@ -1,5 +1,5 @@
 if(!localStorage.getItem('radioStation')) {
-  localStorage.setItem('radioStation', 'https://music-station.live/radio/8000/radio.mp3')
+  localStorage.setItem('radioStation', 'https://radio.chickenfm.com/radio/8020/radio.mp3')
 }
 if(!localStorage.getItem('api')) {
   localStorage.setItem('api', 'chickenfm')
